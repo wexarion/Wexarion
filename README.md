@@ -1,46 +1,43 @@
 # Wexa
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:650000,100:FF2020&height=230&section=header&text=WEXARION&fontSize=65&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn" width="100%" />SOFTWARE DEVELOPER
 
-Building ideas. Exploring technology. Creating solutions.
+Somewhere between elegant solutions and unnecessary rabbit holes
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=FF3030&center=true&vCenter=true&width=500&lines=Welcome+to+Wexarion's+GitHub.;Code+with+purpose.;Build.+Learn.+Innovate." /></div>---
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=FF3030&center=true&vCenter=true&width=500&lines=Curiosity+is+the+whole+point.;Making+complex+things+make+sense.;Occasionally+debugging+my+own+genius.;Less+talk+more+building." /></div>---
 
-01 / ABOUT ME
+"01 / THE PERSON BEHIND THE CODE"
 
 name: Wexarion
-role: Software Developer
+occupation: Software Developer
 interests:
   - Software Engineering
+  - Reverse Engineering
   - Android Development
-  - Application Development
-  - Programming
-  - Technology
+  - Systems & Architecture
+current_status: Perpetually curious
 
-mindset: "Build beyond limits."
+I have a particular interest in understanding what happens beneath the surface
 
-I enjoy exploring technology, understanding how software works, and turning ideas into practical projects.
+Most of my time goes into exploring unfamiliar technologies, dissecting interesting problems and building things simply because I want to know whether I can
 
-Always curious. Always improving.
+I appreciate well-engineered software, unconventional ideas and solutions that don't need a hundred lines of explanation
 
-02 / TECHNOLOGIES & TOOLS
+"02 / MY TOOLKIT"
 
-<div align="center"><img src="https://skillicons.dev/icons?i=java,kotlin,python,js,html,css,git,github,androidstudio,vscode&theme=dark" /></div>03 / GITHUB ANALYTICS
+<div align="center"><img src="https://skillicons.dev/icons?i=java,kotlin,python,js,html,css,git,github,androidstudio,vscode&theme=dark" /></div>"03 / A FEW THINGS ABOUT ME"
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=wexarion&show_icons=true&hide_border=true&bg_color=080808&title_color=FF3030&icon_color=FF3030&text_color=FFFFFF&rank_icon=github" width="49%" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wexarion&layout=compact&hide_border=true&bg_color=080808&title_color=FF3030&text_color=FFFFFF" width="49%" /><br/><img src="https://streak-stats.demolab.com?user=wexarion&theme=dark&hide_border=true&background=080808&ring=FF3030&fire=FF3030&currStreakLabel=FF3030" width="95%" /></div>04 / CURRENT FOCUS
-
-- Exploring new technologies
-- Improving programming skills
-- Developing software projects
-- Learning application development
+- I tend to investigate things that most people would simply leave alone
+- Reverse engineering is an interesting rabbit hole
+- I prefer understanding the underlying logic over blindly following documentation
+- Occasionally the most complicated part of a project is figuring out why yesterday's code suddenly hates me
+- Perfection is a moving target and apparently I enjoy chasing it
 
 ---
 
-<div align="center">""WEXARION" (https://img.shields.io/badge/WEXARION-FF3030?style=for-the-badge&logo=github&logoColor=white&labelColor=111111)" (https://github.com/wexarion)
+<div align="center">WEXARION
 
-<br/><img src="https://komarev.com/ghpvc/?username=wexarion&style=for-the-badge&color=990000&label=PROFILE+VIEWS" /><br/><br/>
+Curiosity without a deadline
 
-W E X A R I O N
+<sub>Engineered with intent and occasionally questionable sleep schedules</sub>
 
-BUILD. CREATE. INNOVATE.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,50:990000,100:FF2020&height=4&section=footer" width="100%" /></div>
+</div>
