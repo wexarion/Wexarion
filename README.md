@@ -8,6 +8,7 @@ Somewhere between elegant solutions and unnecessary rabbit holes
 "01 / THE PERSON BEHIND THE CODE"
 
 name: Wexarion
+Age : 20 y.o
 occupation: Software Developer
 interests:
   - Software Engineering
