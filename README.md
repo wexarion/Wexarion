@@ -5,14 +5,14 @@ Building ideas. Exploring technology. Creating solutions.
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=FF3030&center=true&vCenter=true&width=500&lines=Welcome+to+Wexarion's+GitHub.;Code+with+purpose.;Build.+Learn.+Innovate." /></div>---
 
-01. ABOUT ME
+01 / ABOUT ME
 
 name: Wexarion
 role: Software Developer
 interests:
   - Software Engineering
-  - Application Development
   - Android Development
+  - Application Development
   - Programming
   - Technology
 
@@ -22,13 +22,11 @@ I enjoy exploring technology, understanding how software works, and turning idea
 
 Always curious. Always improving.
 
-02. TECHNOLOGIES & TOOLS
+02 / TECHNOLOGIES & TOOLS
 
-<div align="center"><img src="https://skillicons.dev/icons?i=java,kotlin,python,js,html,css,git,github,androidstudio,vscode&theme=dark" /></div>03. GITHUB ANALYTICS
+<div align="center"><img src="https://skillicons.dev/icons?i=java,kotlin,python,js,html,css,git,github,androidstudio,vscode&theme=dark" /></div>03 / GITHUB ANALYTICS
 
-<div align="center"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=wexarion&show_icons=true&hide_border=true&bg_color=080808&title_color=FF3030&icon_color=FF3030&text_color=FFFFFF&rank_icon=github" /><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wexarion&layout=compact&hide_border=true&bg_color=080808&title_color=FF3030&text_color=FFFFFF" /><br/><br/>
-
-<img width="95%" src="https://streak-stats.demolab.com?user=wexarion&theme=dark&hide_border=true&background=080808&ring=FF3030&fire=FF3030&currStreakLabel=FF3030" /></div>04. CURRENT FOCUS
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=wexarion&show_icons=true&hide_border=true&bg_color=080808&title_color=FF3030&icon_color=FF3030&text_color=FFFFFF&rank_icon=github" width="49%" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wexarion&layout=compact&hide_border=true&bg_color=080808&title_color=FF3030&text_color=FFFFFF" width="49%" /><br/><img src="https://streak-stats.demolab.com?user=wexarion&theme=dark&hide_border=true&background=080808&ring=FF3030&fire=FF3030&currStreakLabel=FF3030" width="95%" /></div>04 / CURRENT FOCUS
 
 - Exploring new technologies
 - Improving programming skills
@@ -37,7 +35,7 @@ Always curious. Always improving.
 
 ---
 
-<div align="center">""GitHub" (https://img.shields.io/badge/GitHub-Profile-111111?style=for-the-badge&logo=github&logoColor=FF3030)" (https://github.com/wexarion)
+<div align="center">""WEXARION" (https://img.shields.io/badge/WEXARION-FF3030?style=for-the-badge&logo=github&logoColor=white&labelColor=111111)" (https://github.com/wexarion)
 
 <br/><img src="https://komarev.com/ghpvc/?username=wexarion&style=for-the-badge&color=990000&label=PROFILE+VIEWS" /><br/><br/>
 
