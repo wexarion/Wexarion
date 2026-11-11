@@ -3,7 +3,7 @@
 
 Building ideas. Exploring technology. Creating solutions.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=FF3030&center=true&vCenter=true&width=500&lines=Welcome+to+Wexarion's+GitHub.;Code+with+purpose.;Build.+Learn.+Innovate." />""GitHub" (https://img.shields.io/badge/GitHub-WEXARION-111111?style=for-the-badge&logo=github&logoColor=FF3030)" (https://github.com/wexarion)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=FF3030&center=true&vCenter=true&width=500&lines=Welcome+to+Wexarion's+GitHub.;Code+with+purpose.;Build.+Learn.+Innovate." 
 
 </div>---
 
