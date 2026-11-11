@@ -1,13 +1,11 @@
 # Wexa
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=venom&color=0:080808,50:5A0000,100:FF2020&height=230&section=header&text=WEXARION&fontSize=70&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn&stroke=FF2020&strokeWidth=1" width="100%" />SOFTWARE DEVELOPER
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:650000,100:FF2020&height=230&section=header&text=WEXARION&fontSize=65&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn" width="100%" />SOFTWARE DEVELOPER
 
 Building ideas. Exploring technology. Creating solutions.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=FF3030&center=true&vCenter=true&width=500&lines=Welcome+to+Wexarion's+GitHub.;Code+with+purpose.;Build.+Learn.+Innovate." 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=FF3030&center=true&vCenter=true&width=500&lines=Welcome+to+Wexarion's+GitHub.;Code+with+purpose.;Build.+Learn.+Innovate." /></div>---
 
-</div>---
-
-<span style="color:#FF3030">01.</span> ABOUT ME
+01. ABOUT ME
 
 name: Wexarion
 role: Software Developer
@@ -37,13 +35,11 @@ Always curious. Always improving.
 - Developing software projects
 - Learning application development
 
-05. CONNECT
+---
 
 <div align="center">""GitHub" (https://img.shields.io/badge/GitHub-Profile-111111?style=for-the-badge&logo=github&logoColor=FF3030)" (https://github.com/wexarion)
 
-</div>---
-
-<div align="center"><img src="https://komarev.com/ghpvc/?username=wexarion&style=for-the-badge&color=990000&label=PROFILE+VIEWS" /><br/><br/>
+<br/><img src="https://komarev.com/ghpvc/?username=wexarion&style=for-the-badge&color=990000&label=PROFILE+VIEWS" /><br/><br/>
 
 W E X A R I O N
 
